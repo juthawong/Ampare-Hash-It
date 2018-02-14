@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Ampare MD5 It
+Comment=Simple GUI MD5 Hash Creator Application
+Exec=amparemd5
+Terminal=false
+Type=Application
+Icon=${SNAP}/meta/gui/icon.png
+Categories=Utility;
